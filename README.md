@@ -1,6 +1,6 @@
 #  Hi 👋,I'm Ahmed Baz
 
-### Bioinformatics & Pharmaceutical Data Analyst | Transcriptomics & RNA-Seq Specialist
+### Bioinformatics & Pharma Data Analyst | Transcriptomics & RNA-Seq Specialist | Python | R |Power BI
 
 ---
 
