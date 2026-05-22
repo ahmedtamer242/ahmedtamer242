@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" class="notranslate" translate="no">
   <h1>Hi 👋, I'm Ahmed Youssef</h1>
   <p><b>Bioinformatics Specialist | Data Analyst | Transcriptomics & RNA-Seq Enthusiast</b></p>
 </div>
