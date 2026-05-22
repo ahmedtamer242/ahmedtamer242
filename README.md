@@ -1,10 +1,12 @@
 # 🚀 Welcome to my Profile! I'm Ahmed Youssef
 
-### 🧬 Bioinformatics Specialist | Data Analyst | Transcriptomics & RNA-Seq Enthusiast
+### 🧬 Bioinformatics Specialist | Pharma Data Analyst | Transcriptomics & RNA-Seq Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
+* 💊 **Pharma Data Analysis:** Skilled in analyzing biomedical and clinical research data to support drug discovery, target identification, and pharmaceutical data optimization.
+* 🧪 **Clinical & Lab Data Processing:** Experienced in handling assay data, identifying biomarkers, and processing laboratory metrics to generate actionable scientific insights.
 * 📊 Passionate about analyzing complex biological data and finding insights in genomic datasets.
 * 💡 Experienced in transcriptomics, differential gene expression pipelines (DESeq2), and workflow automation.
 * 📈 Skilled in building interactive, data-driven dashboards to solve business and scientific problems.
