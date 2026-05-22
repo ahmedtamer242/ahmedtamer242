@@ -1,4 +1,4 @@
-#  Hi 👋,I'm Ahmed Tamer
+#  Hi 👋,I'm Ahmed Baz
 
 ### Bioinformatics & Pharmaceutical Data Analyst | Transcriptomics & RNA-Seq Specialist
 
