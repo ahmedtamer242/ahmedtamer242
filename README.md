@@ -20,11 +20,24 @@
 
 ## Technical Skills & Tools
 
-**Data Analysis & Programming**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-
-**Business Intelligence, Automation & Scripting**
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/AutoHotkey-33AA33?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotkey"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<table>
+  <tr>
+    <td width="35%"><b>Data Analysis & Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"> 
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="22"> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Business Intelligence & Scripting</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" height="22"> 
+      <img src="https://img.shields.io/badge/AutoHotkey-33AA33?style=for-the-badge&logo=autohotkey&logoColor=white" height="22"> 
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="22">
+    </td>
+  </tr>
+</table>
 
 ---
 
